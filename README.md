@@ -45,7 +45,8 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeepagrahari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="159" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeepagrahari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&v=1" height="159" alt="stats graph" />
+ <br>
   <img src="https://streak-stats.demolab.com?user=Kuldeepagrahari&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuldeepagrahari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="167" alt="languages graph"  />
 </div>
