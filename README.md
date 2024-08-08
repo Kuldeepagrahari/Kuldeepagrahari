@@ -35,7 +35,7 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongo db" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" title="Firebase" />
 <img style="background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" title="Express" />
-<img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fnode" height="30" alt="node logo" title="Node" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg" height="30" alt="node logo" title="Node" />
 
 
 ## Reach Me Through
