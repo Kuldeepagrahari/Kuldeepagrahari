@@ -34,7 +34,7 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongo db" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" title="Firebase" />
-<img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" height="30" alt="express logo" title="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" title="Express" />
 <img src="https://w7.pngwing.com/pngs/416/280/png-transparent-node-js-express-js-javascript-redis-mean-node-js-angle-text-service-thumbnail.png" height="30" alt="node logo" title="Node" />
 
 
