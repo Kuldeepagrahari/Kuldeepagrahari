@@ -1,26 +1,25 @@
-# 👋 Hi there, I'm Kuldeep
+ <div align="center"> <span><h1>👋Hi there, I'm </h1>
 
-   
+   <img src="assets/Kuldeep.gif" width="200px" alt="gif"  class="gif-img" /></span></div>
 ## About Me
 
 <b>MERN stack Developer | ⭐⭐⭐ Rating on Codechef & GFG | UG 2026 | CSE | IIIT DM jabalpur</b>
 <br />
 <br />
-Driven by innovation and passionate about shaping the future with technology. 
-<br />
-Currently pursuing B.Tech With CSE at IIIT Jabalpur 🎓
-<br />
-I'm constantly seeking new challenges and opportunities to learn and grow.
-<br />
-- Loving the making and ideation of new Projects.
-- Learning about new tech stacks is the primary goal.
-- Good at OOPS , SQL and NoSQL.
-- Competitive Programming is my first Love
+<strong>
 
-## Skills And Languages I Know
+- 🌱 I’m a Full Stack Developer who is always excited to implement new ideas into my Projects
+
+- 🏢 Always ready to learn new stacks 
+
+- 🤷 Problem Solving is first love
+
+</strong>
+
+
 <div align="center">
 
-
+## Skills And Languages I Know
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
 
