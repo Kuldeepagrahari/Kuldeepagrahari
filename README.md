@@ -55,3 +55,4 @@ I'm constantly seeking new challenges and opportunities to learn and grow.
 <img src="https://komarev.com/ghpvc/?username=Kuldeepagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="Kuldeepagrahari" /> </p>
 </div>
 </div>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeepagrahari&theme=react-dark&bg_color=00000000&color=4D89F9&line=4D89F9&point=007EC6&area=true&hide_border=true&area_color=#a8c7ff"> <br>
