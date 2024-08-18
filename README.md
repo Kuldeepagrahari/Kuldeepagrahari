@@ -1,7 +1,7 @@
  <div align="center"> <span><h1>👋Hi there, I'm </h1>
 
    <img src="assets/Kuldeep.gif" width="200px" alt="gif"  class="gif-img" /></span></div>
-## About Me
+<div align="center"><h1> About Me</h1></div>
 
 <b>MERN stack Developer | ⭐⭐⭐ Rating on Codechef & GFG | UG 2026 | CSE | IIIT DM jabalpur</b>
 <br />
