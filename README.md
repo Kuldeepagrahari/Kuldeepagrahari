@@ -1,4 +1,65 @@
-# 👋 Hi there, I'm Kuldeep Agrahari
+# 👋 Hi there, I'm
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+            margin: 0;
+        }
+        #content {
+            font-size: 24px;
+            color: #333;
+            border-right: 2px solid;
+            white-space: nowrap;
+            overflow: hidden;
+            width: 0;
+            animation: typing 2s steps(30, end), blink-caret 0.75s step-end infinite;
+        }
+
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+
+        @keyframes blink-caret {
+            from, to { border-color: transparent; }
+            50% { border-color: black; }
+        }
+    </style>
+
+
+<div id="content"></div>
+
+<script>
+    const texts = ["Kuldeep Agrahari", "Work1: MERN Stack Developer", "Work2: Competitive Programmer"];
+    let index = 0;
+    let charIndex = 0;
+    const typingSpeed = 100; // Speed of typing effect
+    const delayBetweenTexts = 2000; // Delay between text changes
+
+    function typeWriter() {
+        const contentDiv = document.getElementById("content");
+        if (charIndex < texts[index].length) {
+            contentDiv.textContent += texts[index].charAt(charIndex);
+            charIndex++;
+            setTimeout(typeWriter, typingSpeed);
+        } else {
+            setTimeout(() => {
+                charIndex = 0;
+                contentDiv.textContent = "";
+                index = (index + 1) % texts.length;
+                setTimeout(typeWriter, 500); // Delay before starting next text
+            }, delayBetweenTexts);
+        }
+    }
+
+    window.onload = typeWriter;
+</script>
+
 
 ## About Me
 
