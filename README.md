@@ -20,7 +20,7 @@
 
 <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Kuldeepagrahari?style=for-the-badge&logo=github" >  
 
-<img alt="Follow Twitter" src="https://img.shields.io/badge/follow-@kuldeep_106-blue?style=for-the-badge&logo=twitter&link=https%3A%2F%2Ftwitter.com%2FAksNema">
+<img alt="Follow Twitter" src="https://img.shields.io/badge/follow-@kuldeep_106-blue?style=for-the-badge&logo=twitter&link=https://x.com/kuldeep_106">
   
 </p>
 <div align="center">
