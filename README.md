@@ -23,7 +23,7 @@
 <img alt="Follow Twitter" src="https://img.shields.io/badge/follow-@kuldeep_106-blue?style=for-the-badge&logo=twitter&link=https://x.com/kuldeep_106">
   
 </p>
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <div align="center">
 
 ## Skills And Languages I Know
