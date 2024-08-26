@@ -1,4 +1,4 @@
- <div align="center"> <span><h1>👋Hi there, I'm </h1>
+ <div align="center"> <span><h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px">Hi there, I'm </h1>
 
    <img src="assets/Kuldeep.gif" width="200px" alt="gif"  class="gif-img" /></span></div>
 <div align="center"><h1> About Me</h1></div>
@@ -23,6 +23,7 @@
 <img alt="Follow Twitter" src="https://img.shields.io/badge/follow-@kuldeep_106-blue?style=for-the-badge&logo=twitter&link=https://x.com/kuldeep_106">
   
 </p>
+
 <div align="center">
 
 ## Skills And Languages I Know
