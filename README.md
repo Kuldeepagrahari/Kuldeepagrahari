@@ -3,8 +3,8 @@
     <img src="assets/Kuldeep.gif" width="200px" alt="Kuldeep gif" class="gif-img" />
 </div>
 
-<b>MERN Stack Developer | ⭐⭐⭐ Rating on Codechef & GFG | UG 2026 | CSE | IIIT DM Jabalpur</b>
-<br /><br />
+<b>MERN Stack Developer | ⭐⭐⭐⭐ Rating on GFG | UG 2026 | CSE | IIIT DM Jabalpur</b>
+<br /><br /
 
 <strong>
 - 🌱 I’m a Full Stack Developer who is always excited to implement new ideas into my projects.<br />
