@@ -8,7 +8,7 @@
 
 <strong>
 - 🌱 I’m a Full Stack Developer who is always excited to implement new ideas into my projects.<br />
-- 🏢 Always ready to learn new stacks.<br />
+- 🏢 Always ready to learn new technologies.<br />
 - 🤷 Problem solving is my first love.<br />
 </strong>
 
