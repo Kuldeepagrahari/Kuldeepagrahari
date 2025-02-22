@@ -3,7 +3,7 @@
     <img src="assets/Kuldeep.gif" width="200px" alt="Kuldeep gif" class="gif-img" />
 </div><br/>
 
-<b>MERN Stack Developer | ⭐⭐⭐⭐ Rating on GFG | UG 2026 | CSE | IIIT DM Jabalpur</b>
+<b>Full Stack Developer | ⭐⭐⭐ Rating on CodeChef | ⭐⭐⭐⭐ Rating on GFG | UG 2026 | CSE | IIIT DM Jabalpur</b>
 <br />
 
 <strong>
