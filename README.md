@@ -93,11 +93,10 @@
 </tr>
  </table>
 </div>
-<div style="width: 1000px">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div>
-</center>
+
+    
 
 <h2 align="center">Reach Me Through</h2>
 <div align="center">
