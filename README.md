@@ -1,6 +1,6 @@
 <div align="center">
-    <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px" alt="Hi there gif" /> Hi, and welcome! <span style="color: orange;">  <br />Here's a glimpse into my 2-year development journey — full of projects, progress, and passion for coding. 💻✨
-</span></h1>
+    <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px" alt="Hi there gif" /> Hi, and welcome! <span style="color: orange;">  <br />Here's a glimpse into my 2-year development journey — full of projects, progress, and passion for coding. 💻✨
+</span></h2>
     <img src="assets/github-poster.gif" width="1000px" alt="Kuldeep gif" class="gif-img" />
 </div><br/>
 
