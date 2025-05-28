@@ -11,12 +11,13 @@
 - 🏢 Always ready to learn new technologies.<br />
 - 🤷 Problem solving is my first love.<br />
 </strong>
-
+<br/>
+<hr/>
 <p align="center">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Kuldeepagrahari?style=for-the-badge&logo=github" />
     <img alt="Follow Twitter" src="https://img.shields.io/badge/follow-@kuldeep_106-blue?style=for-the-badge&logo=twitter&link=https://x.com/kuldeep_106" />
 </p>
-
+<hr/>
 <div align="center" style="background-color:gray;">
    <h2>🚀 Skills and Technologies I Know</h2>
     <table>
@@ -92,16 +93,18 @@
 </td>
 </tr>
  </table>
-</div>
+</div><br/>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-    
+<br/>
 
 
 <h2 align="center">Reach Me Through</h2>
-<table> <tr>
-<td>![Developer (7)](https://github.com/user-attachments/assets/d8a82c03-38b4-4306-92b6-5dd29725ce20)
+<table align="center" border="none"> <tr>
+<td border="none">
+    <img src="https://drive.google.com/uc?export=view&id=1PWXLFJgvnt4BOMx3_vxqvHfkrXzdWn3N" height="200" alt="My Logo" />
+
 </td><td>
 <div align="center">
     <a href="mailto:kuldeepagrahari9103@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
