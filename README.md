@@ -98,13 +98,17 @@
 
     
 
+
 <h2 align="center">Reach Me Through</h2>
+<table> <tr>
+<td>![Developer (7)](https://github.com/user-attachments/assets/d8a82c03-38b4-4306-92b6-5dd29725ce20)
+</td><td>
 <div align="center">
     <a href="mailto:kuldeepagrahari9103@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
     <a href="https://www.linkedin.com/in/kuldeep-agrahari-56b159260/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://twitter.com/kuldeep_106"><img src="https://img.shields.io/badge/-Twitter-1c1c1c?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge" /></a>
 </div>
-
+</td></tr></table>
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Kuldeepagrahari&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&v=1" height="159" alt="GitHub stats graph" />
