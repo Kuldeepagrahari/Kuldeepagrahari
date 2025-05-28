@@ -1,6 +1,6 @@
 <div align="center">
     <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px" alt="Hi there gif" /> Hi there, <span style="color: orange;">I'm Kuldeep Agrahari</span></h1>
-    <img src="assets/github-swe.gif" width="1000px" alt="Kuldeep gif" class="gif-img" />
+    <img src="assets/github-poster.gif" width="1000px" alt="Kuldeep gif" class="gif-img" />
 </div><br/>
 
 <b>Software Developer | Problem Solver | ⭐⭐⭐ Rating on CodeChef | ⭐⭐⭐⭐ Rating on GFG | UG 2026 | CSE | PDPM IIITDM Jabalpur</b>
