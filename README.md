@@ -4,14 +4,20 @@
     <img src="assets/github-poster.gif" width="1000px" alt="Kuldeep gif" class="gif-img" />
 </div><br/>
 
-<b>Software Developer | Problem Solver | ⭐⭐⭐ Rating on CodeChef | ⭐⭐⭐⭐ Rating on GFG | UG 2026 | CSE | PDPM IIITDM Jabalpur</b>
+<b>Software Developer | Problem Solver | Knight Badge on Leetcode | ⭐⭐⭐ Rating on CodeChef | ⭐⭐⭐⭐ Rating on GFG | UG 2026 | CSE | PDPM IIITDM Jabalpur</b>
 <br />
+### 🏛️ Educational Background
+- 🎓 *PDPM IIIT DM Jabalpur*
+- 💻 *Computer Science & Engineering*
+- 📅 *Expected Graduation: 2026*
 
-<strong>
-- 🌱 I’m a Full Stack Developer who is always excited to implement new ideas into my projects.<br />
-- 🏢 Always ready to learn new technologies.<br />
-- 🤷 Problem solving is my first love.<br />
-</strong>
+## 💻 What I Do
+
+- 🧩 Problem Solving: Active competitive programmer with achievements across LeetCode, CodeChef, and GeeksforGeeks
+
+- 🌐 Development: Building full-stack web applications, mobile apps, and exploring cutting-edge technologies
+
+- 📚 Learning: Constantly expanding my knowledge in system design, cloud technologies, and software architecture
 <br/>
 <hr/>
 <p align="center">
