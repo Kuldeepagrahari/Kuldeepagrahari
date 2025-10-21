@@ -1,5 +1,7 @@
 <div align="center">
-    <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px" alt="Hi there gif" /> Hi, and welcome! <span style="color: orange;">  <br />Here's a glimpse into my programming journey so far — full of projects, progress, and passion for coding. 💻✨
+    <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px" alt="Hi there gif" /> Hi, and welcome! <span style="color: orange;">  <br />Here's a glimpse into my programming journey so far — full of projects, progress, and passion for coding. 💻✨ <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Kuldeepagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="Kuldeep Agrahari profile views" />
+</div>
 </span></h2>
     <img src="assets/github-poster.gif" width="1000px" alt="Kuldeep gif" class="gif-img" />
 </div><br/>
@@ -128,9 +130,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuldeepagrahari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="167" alt="Top languages graph" />
 </div>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Kuldeepagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="Kuldeep Agrahari profile views" />
-</div>
+
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeepagrahari&theme=react-dark&bg_color=00000000&color=4D89F9&line=4D89F9&point=007EC6&area=true&hide_border=true&area_color=#a8c7ff" alt="GitHub activity graph" />
