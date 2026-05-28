@@ -1,34 +1,49 @@
 <!-- HERO SECTION -->
+
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:001A1A,100:00F5D4&height=120&section=header"
 />
+
 <div align="center">
+
 <img 
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=00F5D4&center=true&vCenter=true&width=700&height=45&lines=Hey+Everyone!+%F0%9F%91%8B;I'm+Kuldeep+Agrahari;%3CBackend+Developer+%2F%3E"
+  align="right"
+  src="./assets/hero-image.png"
+  width="280"
 />
-<h4>
-Let's connect and have a chat ☕
-</h4>
-<div align="center">
+
+<div align="left">
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=00F5D4&vCenter=true&width=600&height=45&lines=Hey+Everyone!+%F0%9F%91%8B;I'm+Kuldeep+Agrahari;%3CBackend+Developer+%2F%3E"
+/>
+
+<p>
+  <strong>Let's connect and have a chat ☕</strong>
+</p>
+
 <a href="https://www.linkedin.com/in/Kuldeepagrahari/">
   <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
+
 <a href="https://twitter.com/kuldeep_106">
   <img src="https://img.icons8.com/color/48/twitterx--v1.png"/>
 </a>
+
 <a href="mailto:kuldeepagrahari9103@gmail.com">
   <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
 </a>
-</div>
-<img 
-  src="./assets/hero-image.png"
-  width="300"
-/>
+
+<br/><br/>
 
 <img 
   src="https://komarev.com/ghpvc/?username=Kuldeepagrahari&label=PROFILE+VIEWS&color=orange&labelColor=0D1117&style=for-the-badge"
 />
+
 </div>
+
+<br clear="right"/>
+
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeepagrahari&theme=react-dark&bg_color=0d0d0d&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true&area_color=00ffcc" width="100%" alt="Activity Graph"/>
