@@ -1,137 +1,228 @@
+<!-- HERO SECTION -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:001A1A,100:00F5D4&height=120&section=header"
+/>
 <div align="center">
-    <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px" alt="Hi there gif" /> Hi, and welcome! <span style="color: orange;">  <br />Here's a glimpse into my programming journey so far — full of projects, progress, and passion for coding. 💻✨ <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Kuldeepagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="Kuldeep Agrahari profile views" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=00F5D4&center=true&vCenter=true&width=700&height=45&lines=Hey+Everyone!+%F0%9F%91%8B;I'm+Kuldeep+Agrahari;%3CBackend+Developer+%2F%3E"
+/>
+<h4>
+Let's connect and have a chat ☕
+</h4>
+<div align="center">
+<a href="https://www.linkedin.com/in/Kuldeepagrahari/">
+  <img src="https://img.icons8.com/color/48/linkedin.png"/>
+</a>
+<a href="https://twitter.com/kuldeep_106">
+  <img src="https://img.icons8.com/color/48/twitterx--v1.png"/>
+</a>
+<a href="mailto:kuldeepagrahari9103@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
+</a>
 </div>
-</span></h2>
-    <img src="assets/github-poster.gif" width="1000px" alt="Kuldeep gif" class="gif-img" />
-</div><br/>
+<img 
+  src="YOUR_PNG_IMAGE_LINK"
+  width="300"
+/>
 
-<b>Software Developer | Problem Solver | Knight Badge on Leetcode | ⭐⭐⭐ Rating on CodeChef | ⭐⭐⭐⭐ Rating on GFG | UG 2026 | CSE | PDPM IIITDM Jabalpur</b>
-<br />
-### 🏛️ Educational Background
-- 🎓 *PDPM IIIT DM Jabalpur*
-- 💻 *Computer Science & Engineering*
-- 📅 *Expected Graduation: 2026*
+<img 
+  src="https://komarev.com/ghpvc/?username=Kuldeepagrahari&label=PROFILE+VIEWS&color=orange&labelColor=0D1117&style=for-the-badge"
+/>
+</div>
+</div>
 
-## 💻 What I Do
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeepagrahari&theme=react-dark&bg_color=0d0d0d&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true&area_color=00ffcc" width="100%" alt="Activity Graph"/>
 
-- 🧩 Problem Solving: Active competitive programmer with achievements across LeetCode, CodeChef, and GeeksforGeeks
+## `~/connect`
 
-- 🌐 Development: Building full-stack web applications, mobile apps, and exploring cutting-edge technologies
+<div align="center">
 
-- 📚 Learning: Constantly expanding my knowledge in system design, cloud technologies, and software architecture
-<br/>
-<hr/>
-<p align="center">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Kuldeepagrahari?style=for-the-badge&logo=github" />
-    <img alt="Follow Twitter" src="https://img.shields.io/badge/follow-@kuldeep_106-blue?style=for-the-badge&logo=twitter&link=https://x.com/kuldeep_106" />
+[![Email](https://img.shields.io/badge/Email-kuldeepagrahari9103%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:kuldeepagrahari9103@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuldeep_Agrahari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/Kuldeepagrahari/)
+[![GitHub](https://img.shields.io/badge/GitHub-Kuldeepagrahari-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Kuldeepagrahari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kuldeepa.dev-orange?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://my-portfolio-weld-beta-40.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-kuldeep__106-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://twitter.com/kuldeep_106)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_🏆-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d)](https://leetcode.com/u/kuldeep144/)
+
+</div>
+
+## `~/about`
+
+```ts
+const kuldeep = {
+  intro: {
+    name      : "Kuldeep Agrahari",
+    location  : "Prayagraj (UP), India",
+    education: {
+        college : "PDPM IIITDM Jabalpur",
+        degree  : "B.Tech in Computer Science & Engineering",
+        batch   : "2022 - 2026"
+    },
+  },
+
+  about: [
+    "Open to impactful software engineering opportunities across backend, full-stack, systems, and scalable infrastructure domains.",
+
+    "Comfortable working in remote, onsite, freelance, contract-based, and collaborative team environments.",
+
+    "Interested in building reliable systems that solve real-world problems and create meaningful impact at scale.",
+
+    "Adaptable to fast-paced learning environments, diverse teams, and global collaboration workflows."
+  ],
+
+  currently_learning: [
+    "Low Level Design",
+    "Cloud Infrastructure",
+    "Scalable System Architecture"
+  ],
+
+  current_goal:
+    "Becoming a strong Software Engineer capable of designing scalable systems used by millions 🚀",
+
+  fun_fact:
+    "My curious mind constantly pushes me to build innovative systems that solve real-world problems and create something new ⚡"
+};
+```
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-<hr/>
-<div align="center" style="background-color:gray;">
-   <h2>🚀 Skills and Technologies I Know</h2>
-    <table>
-        <tr>
-            <td>
-       <h3>Languages & Runtime</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-            </td>
-<td>
-  <!-- Frontend -->
-    <h3>Frontend</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React.js / React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="JQuery" title="JQuery" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
 
-  </td>
-</tr>
-<tr>
-    <td>
-  <!-- Backend -->
-        <h3>Backend</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" title="Django" />
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="40" alt="GraphQL" title="GraphQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="WebSockets" title="WebSockets" />
+---
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=icloud&logoColor=white" />
+</p>
+
+---
+
+### 🗄️ Databases & Caching
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+---
+
+### ☁️ Cloud, DevOps & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-336791?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+</p>
+
+---
+
+### 🛠️ Developer Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+
+---
+
+## `~/stats`
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Kuldeepagrahari&theme=highcontrast" alt="GitHub Streak" />
+      </a>
     </td>
-    <td>
-  
-
-  <!-- Databases -->
-  <h3>Database</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase Realtime DB" />
-
-  </td>
+  </tr>
+</table>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=Kuldeepagrahari&hide=html,css&layout=compact&theme=highcontrast&cache_seconds=1800"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kuldeepagrahari&theme=highcontrast"
+        alt="Productive Time"
+        width="100%"
+      />
+    </td>
   </tr>
   <tr>
-  <td>
-  <h3>Cloud / Devops</h3>
-  <!-- Cloud / DevOps -->
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" 
-     height="40" 
-     alt="AWS" 
-     title="Amazon Web Services (AWS)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions / CI-CD" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40" alt="Vercel" title="Vercel Deployment" />
+    <td width="50%" valign="top">
+      <img
+        src="https://github-readme-stats-plum-one-24.vercel.app/api?username=Kuldeepagrahari&show_icons=true&count_private=true&theme=highcontrast&cache_seconds=1800"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuldeepagrahari&theme=highcontrast"
+        alt="Profile Details"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+---
 
-  </td>
-  <td>
-  <h3>Developer Tools</h3>
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" title="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" title="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" title="Raspberry Pi" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40" alt="OpenCV" title="OpenCV" />
-
-  <img src="https://avatars.githubusercontent.com/u/80141831?s=200&v=4" height="40" alt="Clerk" title="Clerk API" />
-</td>
-</tr>
- </table>
-</div><br/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
+## `~/wins`
+<img width="1592" height="685" alt="image" src="https://github.com/user-attachments/assets/15addc5d-3a90-491f-8c68-972f9793314a" />
 
 
-<h2 align="center">Reach Me Through</h2>
-<table align="center" border="none"> <tr>
-<td border="none">
-    <img src="https://drive.google.com/uc?export=view&id=1PWXLFJgvnt4BOMx3_vxqvHfkrXzdWn3N" height="200" alt="My Logo" />
 
-</td><td>
-<div align="center">
-    <a href="mailto:kuldeepagrahari9103@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
-    <a href="https://www.linkedin.com/in/kuldeep-agrahari-56b159260/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://twitter.com/kuldeep_106"><img src="https://img.shields.io/badge/-Twitter-1c1c1c?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge" /></a>
-</div>
-</td></tr></table>
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kuldeepagrahari&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&v=1" height="159" alt="GitHub stats graph" />
-    <br />
-    <img src="https://streak-stats.demolab.com?user=Kuldeepagrahari&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="GitHub streak graph" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuldeepagrahari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="167" alt="Top languages graph" />
-</div>
-
-
+---
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeepagrahari&theme=react-dark&bg_color=00000000&color=4D89F9&line=4D89F9&point=007EC6&area=true&hide_border=true&area_color=#a8c7ff" alt="GitHub activity graph" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,40:001a1a,100:0d0d0d&height=120&section=footer" width="100%"/>
