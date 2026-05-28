@@ -21,7 +21,7 @@ Let's connect and have a chat ☕
 </a>
 </div>
 <img 
-  src="YOUR_PNG_IMAGE_LINK"
+  src="./assets/hero-image.png"
   width="300"
 />
 
