@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:001A1A,100:00F5D4&height=120&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:111827,100:2563EB&height=120&section=header"
 />
 
 <div align="center">
@@ -13,11 +13,9 @@
 />
 
 <div align="left">
-
 <img 
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=00F5D4&vCenter=true&width=600&height=45&lines=Hey+Everyone!+%F0%9F%91%8B;I'm+Kuldeep+Agrahari;%3CBackend+Developer+%2F%3E"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=2563EB&vCenter=true&width=600&height=45&lines=Hey+Everyone!+%F0%9F%91%8B;I'm+Kuldeep+Agrahari;%3CBackend+Developer+%2F%3E"
 />
-
 <p>
   <strong>Let's connect and have a chat ☕</strong>
 </p>
@@ -46,7 +44,7 @@
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeepagrahari&theme=react-dark&bg_color=0d0d0d&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true&area_color=00ffcc" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeepagrahari&theme=react-dark&bg_color=0d0d0d&color=2563EB&line=2563EB&point=ffffff&area=true&hide_border=true&area_color=2563EB" width="100%" alt="Activity Graph"/>
 
 ## `~/connect`
 
@@ -195,14 +193,14 @@ const kuldeep = {
   <tr>
     <td width="50%" valign="top">
       <img
-        src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=Kuldeepagrahari&hide=html,css&layout=compact&theme=highcontrast&cache_seconds=1800"
+        src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=Kuldeepagrahari&hide=html,css&layout=compact&theme=github_dark&cache_seconds=1800"
         alt="Top Languages"
         width="100%"
       />
     </td>
     <td width="50%" valign="top">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kuldeepagrahari&theme=highcontrast"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kuldeepagrahari&theme=github_dark"
         alt="Productive Time"
         width="100%"
       />
@@ -236,8 +234,8 @@ const kuldeep = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,40:001a1a,100:0d0d0d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,40:111827,100:0D0D0D&height=120&section=footer" width="100%"/>
