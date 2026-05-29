@@ -1,11 +1,13 @@
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0f1729,100:2563EB&height=200&section=header&text=Kuldeep%20Agrahari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Systems%20Builder%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0f1729,100:2563EB&height=200&section=header&text=Kuldeep%20Agrahari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20%20build%20systems%20that%20scale%20%C2%B7%20Obsessed%20with%20problems%20that%20matter%20to%20millions&descSize=15&descAlignY=58&descColor=a0b4d0&animation=fadeIn" width="100%"/>
 <!-- HERO SECTION -->
 <img src="./assets/hero-image.png" align="right" width="210" style="margin-left: 20px;"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1200&color=2563EB&vCenter=true&width=520&height=50&lines=%24+whoami+%E2%86%92+Kuldeep+Agrahari;%24+role+%E2%86%92+Software+Developer;%24+passion+%E2%86%92+Building+at+Scale+%F0%9F%9A%80" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1200&color=2563EB&vCenter=true&width=520&height=50&lines=%24+whoami+%E2%86%92+Kuldeep+Agrahari;%24+craft+%E2%86%92+Backend+%26+Systems+Engineering;%24+obsession+%E2%86%92+Scale+that+impacts+millions+%F0%9F%9A%80" />
+
 <br/>
 
-### 🔹 Building scalable systems that solve real-world problems ⚡
+### 🔹 Curious by nature · Builder by instinct · Impact at scale
 
 <br/>
 <a href="https://www.linkedin.com/in/Kuldeepagrahari/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
@@ -13,10 +15,10 @@
 <a href="mailto:kuldeepagrahari9103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://my-portfolio-weld-beta-40.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
 <a href="https://leetcode.com/u/kuldeep144/"><img src="https://img.shields.io/badge/LeetCode_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Kuldeepagrahari&label=PROFILE+VIEWS&color=2563EB&labelColor=0D1117&style=for-the-badge"/>
+
 <br clear="right"/>
 <br/>
 
@@ -38,20 +40,20 @@ const kuldeep = {
     },
   },
 
-  about: [
-    "🎯 Open to impactful SWE roles: backend, full-stack, systems & scalable infra",
-    "🌏 Comfortable in remote, onsite, freelance, contract & collaborative environments",
-    "⚙️  Building reliable systems that solve real-world problems at scale",
-    "🤝 Adaptable to fast-paced learning, diverse teams & global collaboration",
+  identity: [
+    "🔭 I build things I wish existed — reliable systems, creative tools, real impact",
+    "⚙️  Backend & systems engineering is where I think deepest and ship fastest",
+    "🌍 Drawn to product companies solving global-scale problems that affect millions",
+    "🧠 Curiosity is my operating system — I learn by building, not just reading",
   ],
 
-  currently_learning : ["Low Level Design", "Cloud Infrastructure", "Scalable System Architecture"],
+  currently_building : ["Low Level Design intuition", "Cloud-native infrastructure", "Scalable distributed systems"],
 
-  current_goal :
-    "Becoming a strong Software Engineer capable of designing scalable systems used by millions 🚀",
+  engineering_philosophy :
+    "Great software isn't just correct — it's the kind people rely on at 3am without knowing your name 🚀",
 
   fun_fact :
-    "My curious mind constantly pushes me to build innovative systems that solve real-world problems ⚡",
+    "I don't wait to understand everything before I start. I build my way to understanding ⚡",
 };
 ```
 
@@ -201,7 +203,7 @@ const kuldeep = {
 
 <br/><br/>
 
-*"Code is poetry written in logic."* 🖤
+*"The best systems are the ones people rely on without ever knowing your name."* 🖤
 
 </div>
 
