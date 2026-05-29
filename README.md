@@ -6,15 +6,16 @@
 
 <div align="center">
 
-<img 
+<img
   align="right"
+  hspace="20"
   src="./assets/hero-image.png"
-  width="280"
+  width="220"
 />
 
 <div align="left">
 <img 
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=2563EB&vCenter=true&width=600&height=45&lines=Hey+Everyone!+%F0%9F%91%8B;I'm+Kuldeep+Agrahari;%3CBackend+Developer+%2F%3E"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=2563EB&vCenter=true&width=450&height=45&lines=Hey+Everyone!+%F0%9F%91%8B;I'm+Kuldeep+Agrahari;%3CBackend+Developer+%2F%3E"
 />
 <p>
   <strong>Let's connect and have a chat ☕</strong>
