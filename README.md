@@ -1,211 +1,197 @@
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0f1729,100:2563EB&height=200&section=header&text=Kuldeep%20Agrahari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20%20build%20systems%20that%20scale%20%C2%B7%20Obsessed%20with%20problems%20that%20matter%20to%20millions&descSize=15&descAlignY=58&descColor=a0b4d0&animation=fadeIn" width="100%"/>
-<!-- HERO SECTION -->
-<img src="./assets/hero-image.png" align="right" width="210" style="margin-left: 20px;"/>
+<h1 align="center">Hey, I'm Kuldeep Agrahari 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1200&color=2563EB&vCenter=true&width=520&height=50&lines=%24+whoami+%E2%86%92+Kuldeep+Agrahari;%24+craft+%E2%86%92+Backend+%26+Systems+Engineering;%24+obsession+%E2%86%92+Scale+that+impacts+millions+%F0%9F%9A%80" />
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3200&pause=900&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Backend+Engineer;Kafka+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Node.js;Distributed+Systems+Builder;LeetCode+Knight+%C2%B7+Rated+1882;Top+5%25+Globally+%C2%B7+700%2B+Solved;Patent+Co-inventor+%C2%B7+2026;IIITDM+Jabalpur+%2726)](https://git.io/typing-svg)
 
-### 🔹 Curious by nature · Builder by instinct · Impact at scale
+</div>
 
-<br/>
-<a href="https://www.linkedin.com/in/Kuldeepagrahari/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://twitter.com/kuldeep_106"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
-<a href="mailto:kuldeepagrahari9103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://my-portfolio-weld-beta-40.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="https://leetcode.com/u/kuldeep144/"><img src="https://img.shields.io/badge/LeetCode_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<br/><br/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Kuldeepagrahari&label=PROFILE+VIEWS&color=2563EB&labelColor=0D1117&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/Kuldeepagrahari/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%232E3440?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
+<a href="https://twitter.com/kuldeep_106" target="_blank"><img src="https://img.shields.io/badge/Twitter-%232E3440.svg?&style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:kuldeepagrahari9103@gmail.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Gmail-%232E3440?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://my-portfolio-weld-beta-40.vercel.app/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-%232E3440?style=for-the-badge&logo=link-external&logoColor=white"/></a>
+<a href="https://leetcode.com/u/kuldeep144/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%232E3440.svg?&style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
 
-<br clear="right"/>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeepagrahari&theme=react-dark&bg_color=0d0d0d&color=2563EB&line=2563EB&point=ffffff&area=true&hide_border=true&area_color=2563EB" width="100%"/>
+</div>
 
 ---
 
-## `$ cat about.ts`
+<table>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeepagrahari&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeepagrahari&theme=dark&hide_border=true&background=2e3440&ring=88c0d0&fire=88c0d0&currStreakLabel=88c0d0"/>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuldeepagrahari&theme=nord_dark"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=Kuldeepagrahari&hide=html,css,jupyter+notebook,shell&langs_count=6&layout=compact&theme=dark&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=ffffff"/>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kuldeepagrahari&theme=nord_dark"/>
+    </td>
+  </tr>
+  <!-- <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuldeepagrahari&theme=nord_dark"/>
+    </td>
+  </tr> -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://komarev.com/ghpvc/?username=Kuldeepagrahari&style=for-the-badge&color=2e3440&label=PROFILE+VIEWS&abbreviated=true"/>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Contributions%20(All%20Time)-1600%2B-2e3440?style=for-the-badge&logo=github&logoColor=white"/>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Commits%20(Last%2012mo)-792-2e3440?style=for-the-badge&logo=git&logoColor=white"/>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Public%20Repos-55-2e3440?style=for-the-badge&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Highlights
+
+**LeetCode Knight** · Peak rating 1882 · Top 4.87% globally · 700+ problems · 500-day streak
+
+**GFG 4-Star** · Top 15 all-time at IIITDM Jabalpur · 500+ problems solved
+
+**Patent Filed (2026)** · VTOL Drone Command & Monitoring System · Co-inventor · Under review
+
+**Backend Module Lead** · Selected from 12 engineers · Led 3 sub-teams · 0 merge conflicts across 10-week sprint
+
+**Mentor, BitByte TPC** · Coached 20+ juniors in DSA · 5 mentees achieved LeetCode 1800+
+
+**NPTEL CSE Discipline Star** · Dec 2025 · 50+ weeks · Network Security, IoT, Programming
+
+---
+
+## 💻 Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Distributed Systems & Infra**
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+## About
 
 ```typescript
 const kuldeep = {
-  intro: {
-    name      : "Kuldeep Agrahari",
-    location  : "📍 Prayagraj (UP), India",
-    education : {
-      college : "PDPM IIITDM Jabalpur",
-      degree  : "B.Tech — Computer Science & Engineering",
-      batch   : "2022 - 2026",
-    },
-  },
+  role        : "Full Stack Engineer",
+  location    : "Prayagraj, India → Bengaluru / Hyderabad / Remote",
+  education   : "B.Tech CSE · IIITDM Jabalpur · 2022–2026",
 
-  identity: [
-    "🔭 I build things I wish existed — reliable systems, creative tools, real impact",
-    "⚙️  Backend & systems engineering is where I think deepest and ship fastest",
-    "🌍 Drawn to product companies solving global-scale problems that affect millions",
-    "🧠 Curiosity is my operating system — I learn by building, not just reading",
+  highlights  : [
+    "Backend Lead — Fusion ERP: 2,500+ users · 45% DB perf gain · 60% workflow reduction",
+    "Aerocare EDP: drone command failure 18% → 2% · DIC-funded · patent filed 2026",
+    "Traffic pipeline: Scapy → Kafka → Django → PostgreSQL → Redis → WebSocket (1k+ pkt/min)",
   ],
 
-  currently_building : ["Low Level Design intuition", "Cloud-native infrastructure", "Scalable distributed systems"],
-
-  engineering_philosophy :
-    "Great software isn't just correct — it's the kind people rely on at 3am without knowing your name 🚀",
-
-  fun_fact :
-    "I don't wait to understand everything before I start. I build my way to understanding ⚡",
+  competitive : "LeetCode Knight · Rated 1882 · Top 5% · 700+ solved · 500-day streak",
+  stack       : ["Node.js", "Django", "Kafka", "PostgreSQL", "Redis", "Docker", "React", "TypeScript"],
+  open_to     : "Full Stack / Backend SDE-1 · graduating June 2026",
 };
 ```
 
 ---
 
-## `$ ls -la tech-stack/`
+## Projects
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
+### [Fusion — Academic ERP](https://github.com/Kuldeepagrahari) &nbsp;·&nbsp; Backend Team Lead
+22-module ERP serving 2,500+ students and 80+ instructors. Owned the Examination module — PostgreSQL schema design, 15+ Django REST APIs with RBAC across 4 roles, automated result-publication workflow. Optimised peak query response by 45% via EXPLAIN ANALYZE. Led 3 sub-teams across a 10-week sprint with zero merge conflicts.
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & APIs</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=icloud&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Caching</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud, DevOps & Infrastructure</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-336791?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Developer Tools</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
+`Django` `PostgreSQL` `React` `Redux` `REST APIs` `RBAC` `Python`
 
 ---
 
-## `$ cat links.md`
+### [Real-Time Network Traffic Monitor](https://github.com/Kuldeepagrahari/CyberCsProject) &nbsp;·&nbsp; [Live](https://cyber-cs-project.vercel.app)
+Distributed packet-monitoring pipeline sustaining 1,000+ packets/min with zero packet loss across a 48-hour load test. Redis caching cut DB reads by 70%. WebSocket dashboard at sub-200ms latency deployed on AWS EC2/S3 via Docker + Nginx.
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email-kuldeepagrahari9103%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:kuldeepagrahari9103@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Kuldeep_Agrahari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/Kuldeepagrahari/)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-Kuldeepagrahari-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Kuldeepagrahari)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kuldeepa.dev-orange?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://my-portfolio-weld-beta-40.vercel.app/)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-kuldeep__106-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://twitter.com/kuldeep_106)
-[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-Knight_🏆-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d)](https://leetcode.com/u/kuldeep144/)
-
-</div>
+`Python` `Apache Kafka` `Django` `PostgreSQL` `Redis` `WebSockets` `React` `Docker` `AWS`
 
 ---
 
-## `$ git log --stat`
+### [Aerocare — VTOL Drone Command System](https://github.com/Kuldeepagrahari) &nbsp;·&nbsp; BTech EDP · DIC-funded · Patent Filed 2026
+Sole CS contributor on a 6-member multidisciplinary team (CS, Electronics, Mechanical, Design). Built the entire software layer — 12+ command types over unreliable RF links. Cut command failure from 18% → under 2% via exponential backoff retry logic. Versioned REST API contracts across hardware and firmware teams.
 
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Kuldeepagrahari&theme=highcontrast&hide_border=true&border_radius=10" width="49%"/>
-</a>
-<a href="#">
-  <img src="https://github-readme-stats-plum-one-24.vercel.app/api?username=Kuldeepagrahari&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&border_radius=10" width="49%"/>
-</a>
-
-<br/>
-
-<a href="#">
-  <img src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=Kuldeepagrahari&hide=html,css&layout=compact&theme=github_dark&hide_border=true&border_radius=10" width="49%"/>
-</a>
-<a href="#">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kuldeepagrahari&theme=github_dark" width="49%"/>
-</a>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuldeepagrahari&theme=highcontrast" width="100%"/>
-
-</div>
+`Node.js` `Express.js` `React Native` `REST APIs` `JavaScript`
 
 ---
 
-## `$ cat wins.md`
+### [Hungry Hub](https://github.com/Kuldeepagrahari/Hungry-Hub) &nbsp;·&nbsp; [Live](https://hungry-hub-client.onrender.com)
+Full-stack food ordering platform — 20+ REST endpoints, JWT auth, Stripe payments. OpenAI GPT-4o recommendation pipeline increased menu-to-cart conversion by 30% across 500+ interactions. Zero critical bugs over 3 months of live use.
 
-<img width="1592" height="685" alt="Wins and achievements" src="https://github.com/user-attachments/assets/15addc5d-3a90-491f-8c68-972f9793314a" />
+`Node.js` `Express.js` `MongoDB` `React` `Stripe` `OpenAI API` `JWT`
+
+---
+
+### [ApplyFlow](https://github.com/Kuldeepagrahari) &nbsp;·&nbsp; In Progress
+AI-powered job application tracker — Kanban pipeline, smart expiry alerts, AI-generated referral messages and resume suggestions via the Anthropic Claude API.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Zustand` `Claude API`
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote"/>
+**SDE-1 · Backend Engineer · Full Stack Engineer**
 
-<br/><br/>
+🏙️ &nbsp;Open to onsite in &nbsp;**Bengaluru · Hyderabad · Mumbai · Delhi NCR · Pune · Gurugram · Noida · Chennai**
+<br/>
+🌐 &nbsp;Open to **remote** and **hybrid** · Will relocate anywhere in India for the right role
+<br/>
+🎓 &nbsp;Graduating **June 2026** · Available immediately
 
-*"The best systems are the ones people rely on without ever knowing your name."* 🖤
+<br/>
+
+📩 &nbsp;[kuldeepagrahari9103@gmail.com](mailto:kuldeepagrahari9103@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/Kuldeepagrahari/) &nbsp;·&nbsp; [Portfolio](https://my-portfolio-weld-beta-40.vercel.app/)
 
 </div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,40:0f1729,100:0D0D0D&height=120&section=footer" width="100%"/>
