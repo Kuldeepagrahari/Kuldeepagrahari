@@ -119,7 +119,7 @@
 ```typescript
 const kuldeep = {
   role        : "Full Stack Engineer · Backend Systems",
-  location    : "Prayagraj, India → Bengaluru / Hyderabad / Remote",
+  location    : "Prayagraj, India → Bengaluru / Hyderabad / Gurugram / Remote",
   education   : "B.Tech CSE · IIITDM Jabalpur · 2022–2026",
 
   engineering : [
