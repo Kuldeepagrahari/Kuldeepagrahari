@@ -176,13 +176,12 @@ AI-powered job application tracker — Kanban pipeline, smart expiry alerts, AI-
 
 <div align="center">
 
-**SDE-1 · Backend Engineer · Full Stack Engineer**
+**SDE-1 · Backend Enginee · Full Stack Engineer**
 
 🏙️ &nbsp;Open to onsite — **Bengaluru · Hyderabad · Mumbai · Delhi NCR · Pune · Noida · Chennai**
 <br/>
 🌐 &nbsp;Open to **remote** and **hybrid** · Will relocate anywhere in India for the right role
 <br/>
-🎓 &nbsp;Graduating **June 2026** · Available immediately
 
 <br/>
 
