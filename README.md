@@ -119,19 +119,19 @@
 ```typescript
 const kuldeep = {
   role        : "Full Stack Engineer · Backend Systems",
-  location    : "Prayagraj, India → Bengaluru / Hyderabad / Gurugram / Remote",
+  location    : "Bengaluru, India → Hyderabad / Gurugram / Remote",
   education   : "B.Tech CSE · IIITDM Jabalpur · 2022–2026",
 
   engineering : [
     "Led backend for 22-module ERP — 2,500+ users, 45% DB perf gain, 60% workflow reduction",
     "Cut drone command failure 18% → 2% — fault-tolerant APIs over unreliable RF networks",
-    "Kafka pipeline: 1,000+ packets/min, 48hr load test, Redis cut DB reads by 70%",
+    "Kafka pipeline: Realtime Packet Monitoring and Analytics Dashboard",
   ],
 
   dsa         : "LeetCode Knight · 1882 peak · Top 5% · 700+ solved · 500-day streak",
   design      : "HLD + LLD · Event-Driven Architecture · Distributed Systems · RBAC · API Design",
   stack       : ["Node.js", "Django", "Kafka", "PostgreSQL", "Redis", "Docker", "React", "TypeScript"],
-  open_to     : "SDE-1 · Full Stack / Backend · graduating June 2026",
+  open_to     : "SDE-1 · Full Stack / Backend · 2026 Batch",
 };
 ```
 
