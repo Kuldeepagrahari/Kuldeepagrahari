@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Backend+Engineer;Node.js+%C2%B7+Django+%C2%B7+Kafka+%C2%B7+Redis+%C2%B7+Docker;Building+Scalable+Backend+Systems;Event-Driven+%C2%B7+Distributed+Systems+%C2%B7+LLD;LeetCode+Knight+700%2B+DSA+Problems+Solved;IIITDM+Jabalpur+%C2%B7+CS+%C2%B7+Jun+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Backend+Engineer;Node.js+%C2%B7+Django+%C2%B7+Kafka+%C2%B7+Redis+%C2%B7+Docker;Building+Scalable+Backend+Systems;Event-Driven+%C2%B7+Distributed+Systems;)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,18 +28,15 @@
     <td width="50%">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeepagrahari&theme=dark&hide_border=true&background=2e3440&ring=88c0d0&fire=88c0d0&currStreakLabel=88c0d0"/>
     </td>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuldeepagrahari&theme=nord_dark"/>
-    </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td width="50%">
       <img width="100%" src="https://github-readme-stats-plum-one-24.vercel.app/api/top-langs/?username=Kuldeepagrahari&hide=html,css,jupyter+notebook,shell&langs_count=6&layout=compact&theme=dark&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=ffffff"/>
     </td>
     <td width="50%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kuldeepagrahari&theme=nord_dark"/>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td colspan="2" align="center">
       <img src="https://komarev.com/ghpvc/?username=Kuldeepagrahari&style=for-the-badge&color=2e3440&label=PROFILE+VIEWS&abbreviated=true"/>
@@ -57,15 +54,15 @@
 
 ## 🏆 Highlights
 
-**LeetCode Knight** · Peak rating 1882 · Top 4.87% globally · 700+ problems · 500-day streak
-
-**GFG 4-Star** · Top 15 all-time at IIITDM Jabalpur · 500+ problems solved
-
-**Backend Module Lead** · Selected from 12 engineers · 0 merge conflicts across 10-week sprint
+**Research Paper Selected for ICIIS 2026 Conference** - Android Malware Detection System https://drive.google.com/file/d/1VUANYpjK6LlvmVdmq0DRlXQ5UyrlOABD/view?usp=sharing
 
 **Patent Filed (2026)** · VTOL Drone Command & Monitoring System · Co-inventor · Under review
 
-**NPTEL CSE Discipline Star** · Dec 2025 · 50+ weeks · Network Security, Programming
+**NPTEL CSE Discipline Star** · Dec 2025 · 50+ weeks ·  Advanced Computer Networks. Network Security, Python Programming, Ethical Hacking
+
+**LeetCode Knight** · Peak rating 1882 · Top 5% globally · 700+ problems · 500-day streak
+
+**GFG 4-Star** · Top 15 all-time at IIITDM Jabalpur · 500+ problems solved
 
 ---
 
