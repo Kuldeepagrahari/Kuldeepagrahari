@@ -37,7 +37,7 @@
 
 **NPTEL CSE Discipline Star** · Dec 2025 · 50+ weeks ·  Advanced Computer Networks. Network Security, Python Programming, Ethical Hacking
 
-**LeetCode Knight** · Peak rating 1882 · Top 5% globally · 700+ problems · 500-day streak
+**LeetCode Knight** · Peak rating 1882 · Top 5% globally · 700+ problems 
 
 **GFG 4-Star** · Top 15 all-time at IIITDM Jabalpur · 500+ problems solved
 
